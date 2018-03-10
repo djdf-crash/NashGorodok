@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nash Gorodok</string>
+    <string name="navigation_drawer_open">navigation_drawer_open</string>
+    <string name="navigation_drawer_close">navigation_drawer_close</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_profile_photo">http://baobaoloveyou.com/flowingdrawer_icon.png</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/menu_group_1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_news"
+            android:title="News" />
+        <item
+            android:id="@+id/menu_history"
+            android:checkable="true"
+            android:title="History" />
+        <item
+            android:id="@+id/menu_maps"
+            android:title="Maps" />
+        <item
+            android:id="@+id/menu_culture"
+            android:title="Culture" />
+        <item
+            android:id="@+id/menu_sport"
+            android:title="Sport" />
+        <item
+            android:id="@+id/menu_school"
+            android:title="School" />
+        <item
+            android:id="@+id/menu_tv_radio_station"
+            android:title="TV and radio station" />
+    </group>
+    <group android:id="@+id/menu_group_2">
+        <item
+            android:id="@+id/menu_settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/menu_about"
+            android:title="About" />
+    </group>
+</menu>
